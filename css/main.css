@@ -1,0 +1,185 @@
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+font,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td {
+    background: transparent;
+    border: 0;
+    margin: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+
+body {
+    line-height: 1;
+    background: #2b2b2b;
+}
+
+input,
+select {
+    vertical-align: middle;
+}
+
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.floatLeft {
+    float: left;
+}
+
+.floatRight {
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
+
+/* overwrite */
+
+.rimg {
+    border-radius: 0.4em;
+}
+
+.emerald {
+    background: #2b2b2b !important;
+}
+
+.bulm {
+    width: 10%;
+    margin: 0 auto !important;
+    display: block;
+    padding-bottom: 1em !important;
+}
+
+.makethisZ{
+    z-index: 1;
+}
+
+.resizeOriginal{
+    width: 30% !important;
+    margin: 0 auto !important;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.notsolarge{
+    height: 100% !important;
+}
+
+.quitPadding{
+    padding: 0 !important;
+}
+
+.center-text{
+    text-align: center !important;
+}
+
+.myGradient{
+    background: url('../img/cordon.jpg') !important;
+
+}
+
+.is-myDark{
+    background: rgba(255, 255, 255, 0.705) !important; /* sorry its not actually dark*/
+    border: 1px solid #ffffff !important;
+}
+
+.padding-head{
+    width: 60% !important;
+    padding-bottom: 30px !important;
+}
+
+.is-text-white{
+    color: #fff !important;
+}
+
+.is-rounded {
+   border-radius: 0.4em !important;
+}
+
+.center-card{
+    margin: 0 auto !important;
+    display: block !important;  
+}
+
+.spanBlack{
+    color: #000 !important;
+}
+
+.footerImg{
+    width: 20% !important;
+}
+
+.footer{
+    padding-bottom: 2em !important;
+}
+
+.quitMarginBottom{
+    margin-bottom: 0 !important;
+}
+
